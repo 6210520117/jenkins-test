@@ -15,7 +15,7 @@
         
         stage('world') {
             steps {
-                echo "World
+                echo "World"
             }
         }
 }
