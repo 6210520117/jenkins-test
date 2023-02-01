@@ -7,10 +7,6 @@
             steps {
                 echo "Hello"
                 }
-            }
-            
-            
-            
         }
         
         stage('world') {
@@ -18,4 +14,5 @@
                 echo "World"
             }
         }
-}
+  }
+ }
